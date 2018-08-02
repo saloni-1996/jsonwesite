@@ -1,0 +1,47 @@
+{
+  "questions": [
+    {
+      "question": "What is Python?",
+      "options": [
+        {
+          "votes": 20,
+          "text": "scripting language"
+        },
+        {
+          "votes": 10,
+          "text": "hard"
+        },
+        {
+          "votes": 55,
+          "text": "easy"
+        },
+        {
+          "votes": 35,
+          "text": "HDL"
+        }
+      ],
+      "question type": "single-choice"
+    },
+    {
+      "question": "How was the session?",
+      "options": [
+        {
+          "votes": 53,
+          "text": "Good"
+        },
+        {
+          "votes": 32,
+          "text": "satisfactory"
+        },
+        {
+          "votes": 55,
+          "text": "Not satisfactory"
+        }
+      ],
+      "question type": "multiple-choice"
+    }
+  ],
+  "Total users": 4343,
+  "Active users": 4334,
+  "Total votes": 63
+}
