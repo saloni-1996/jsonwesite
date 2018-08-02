@@ -1,2 +1,2 @@
 # jsonwesite
-This is mt json dummy json file for charts
+This is my json dummy json file for charts
