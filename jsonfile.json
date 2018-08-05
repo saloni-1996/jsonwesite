@@ -37,7 +37,33 @@
         }
       ],
       "question type": "single-choice"
-    }
+    },
+    "question_id": 3,
+      "question": "What is Python?",
+      "options": [
+        {
+          "votes": 20,
+          "text": "scripting language"
+        },
+        {
+          "votes": 10,
+          "text": "hard"
+        },
+        {
+          "votes": 55,
+          "text": "easy"
+        },
+        {
+          "votes": 35,
+          "text": "HDL"
+        },
+        {
+          "votes": 35,
+          "text": "HiFi"
+        }
+      ],
+      "question type": "single-choice"
+    },
   ],
   "Total_users": 4343,
   "Active_users": 4334,
