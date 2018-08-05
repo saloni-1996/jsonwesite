@@ -41,7 +41,22 @@
         }
       ],
       "question type": "multiple-choice"
-    }
+    },
+    {
+      "question_id": 3,
+      "question": "Was the conference helful?"
+      "options": [
+        {
+          "votes": 53,
+          "text": "Yes"
+        },
+        {
+          "votes": 47,
+          "text": "No"
+        }
+      ],
+      "question type": "single-choice"
+}
   ],
   "Total_users": 4343,
   "Active_users": 4334,
