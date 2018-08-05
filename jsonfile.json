@@ -32,12 +32,8 @@
           "text": "Good"
         },
         {
-          "votes": 32,
-          "text": "satisfactory"
-        },
-        {
           "votes": 55,
-          "text": "Not satisfactory"
+          "text": "Not good"
         }
       ],
       "question type": "multiple-choice"
