@@ -34,9 +34,28 @@
         {
           "votes": 55,
           "text": "Not good"
+        },
+        {
+          "votes": 55,
+          "text": "Not satisfactory"
         }
       ],
       "question type": "multiple-choice"
+    }
+    {
+      "question_id": 3,
+      "question": "Should I take more sessions?",
+      "options": [
+        {
+          "votes": 53,
+          "text": "Yes"
+        },
+        {
+          "votes": 55,
+          "text": "No"
+        }
+      ],
+      "question type": "single-choice"
     }
   ],
   "Total_users": 4343,
