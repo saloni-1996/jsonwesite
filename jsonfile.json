@@ -44,7 +44,7 @@
     },
     {
       "question_id": 3,
-      "question": "Was the conference helful?"
+      "question": "Was the conference helful?",
       "options": [
         {
           "votes": 53,
