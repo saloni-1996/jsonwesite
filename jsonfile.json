@@ -21,7 +21,12 @@
         }
       ],
       "question type": "single-choice"
-    }
+    },
+    {
+         "question":"Rate the session.",
+         "average rating":45,
+         "question type":"rating"
+      }
   ],
   "Total_users": 4343,
   "Active_users": 4334,
