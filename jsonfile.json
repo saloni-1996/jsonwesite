@@ -1,6 +1,29 @@
 {
   "questions": [
     {
+      "question_id": 1,
+      "question": "What is Python?",
+      "options": [
+        {
+          "votes": 20,
+          "text": "scripting language"
+        },
+        {
+          "votes": 10,
+          "text": "hard"
+        },
+        {
+          "votes": 55,
+          "text": "easy"
+        },
+        {
+          "votes": 35,
+          "text": "HDL"
+        }
+      ],
+      "question type": "single-choice"
+    },
+    {
       "question_id": 3,
       "question": "Should I take more sessions?",
       "options": [
