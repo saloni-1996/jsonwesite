@@ -64,6 +64,21 @@
         }
       ],
       "question type": "single-choice"
+    },
+    {
+      "question_id": 4,
+      "question": "Should I continue the session?",
+      "options": [
+        {
+          "votes": 47,
+          "text": "Yes"
+        },
+        {
+          "votes": 53,
+          "text": "No"
+        }
+      ],
+      "question type": "single-choice"
     }
   ],
   "Total_users": 4343,
