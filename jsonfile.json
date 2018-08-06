@@ -38,6 +38,7 @@
       ],
       "question type": "single-choice"
     },
+    {
     "question_id": 3,
       "question": "What is Python?",
       "options": [
